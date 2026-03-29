@@ -34,4 +34,5 @@ I have experience in Help Desk (Level 1.5), which means I don't just write codeâ
 
 ### :mailbox: How to reach me
 LinkedIn: https://www.linkedin.com/in/alfonso-galeano-soporte-sistemas-desarrollador-web/
+
 Email: galeanoconde@gmail.com
