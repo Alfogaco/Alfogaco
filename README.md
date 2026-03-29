@@ -21,15 +21,15 @@ Advanced Responsive Web Design (Flexbox & Grid).
 Node.js for backend development.
 echnical English to collaborate effectively in international tech environments.
 
-### :people dancing: I’m looking to collaborate on
+### 👯 I’m looking to collaborate on
 Open-source projects related to web tools or educational software.
 Any project where I can apply my Help Desk experience to improve user interfaces.
 
-### :speech balloon: Ask mu about
+### 💬 Ask mu about
 Web development basics: I love discussing how to structure code with HTML and CSS.
 Life-long learning: How I balance being a father, a student, and a developer at 49.
 
-### :high voltage: fun fact
+### ⚡fun fact
 I have experience in Help Desk (Level 1.5), which means I don't just write code—I also understand the end-user's pain points and how to solve them!
 
 ### :mailbox: How to reach me
