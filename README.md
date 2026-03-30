@@ -1,3 +1,5 @@
+https://capsule-render.vercel.app/api?type=egg&height=300&color=gradient&text=Alfonso Galeano
+
 ## Hi there 👋
 
 I am a Systems Engineering student and an aspiring Junior Web Developer passionate about building clean and functional web applications.
